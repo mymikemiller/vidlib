@@ -1,0 +1,16 @@
+name: vidlib
+description: A library for use in multiple Videate apps.
+# version: 1.0.0
+# homepage: https://www.puffinlabs.me
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  json_annotation: any
+
+dev_dependencies:
+  pedantic: ^1.8.0
+  test: ^1.6.0
+  build_runner: any
+  json_serializable: any
